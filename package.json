@@ -1,0 +1,8 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/egorcko/egorcko_bot.git",
+  "author": "Egor Gvozdev",
+  "license": "MIT"
+}
